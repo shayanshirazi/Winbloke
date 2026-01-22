@@ -1,9 +1,10 @@
 # 🏆 Winbloke
 
-![Version](https://img.shields.io/badge/release-v1.0.0-success?style=for-the-badge&logo=github)
+![Version](https://img.shields.io/badge/release-v0.4.0-success?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![Maintenance](https://img.shields.io/badge/maintenance-Passive-lightgrey?style=for-the-badge)
+![Language](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <br />
 
@@ -11,7 +12,7 @@
   <img src="https://github.com/shayanshirazi/Winbloke/blob/main/GUI/GUI/icon.png?raw=true" alt="Project Banner" width="200px">
   
   <p align="center">
-    <b>A fully feature-complete [Game / Utility / Desktop Application] designed for [speed / precision / entertainment].</b>
+    <b>A fully feature-complete Desktop Application designed for efficiency and user experience.</b>
     <br />
     <a href="#-installation"><strong>Download Now »</strong></a>
     <br />
@@ -36,11 +37,11 @@
 
 ## 🎨 About The Project
 
-**Winbloke** is a comprehensive software solution that addresses [The Problem it solves] by providing a robust [The Solution it offers]. 
+**Winbloke** is a comprehensive software solution that addresses the need for a lightweight, custom desktop tool by providing a robust, intuitive Python-based interface. 
 
-What started as a simple concept has been developed into a polished, standalone application. Unlike many prototypes, Winbloke handles edge cases, user input errors, and performance optimization, making it a reliable tool for [Target Audience].
+What started as a simple concept has been developed into a polished, standalone application. Unlike many prototypes, Winbloke handles edge cases, user input errors, and performance optimization, making it a reliable tool for end-users.
 
-Whether you are looking to [Action A] or simply want to [Action B], Winbloke streamlines the process into a single, cohesive experience.
+Whether you are looking to manage desktop tasks or simply want to explore a custom Python GUI implementation, Winbloke streamlines the process into a single, cohesive experience.
 
 ---
 
@@ -48,25 +49,24 @@ Whether you are looking to [Action A] or simply want to [Action B], Winbloke str
 
 This project is feature-complete and includes:
 
-* **⚡ High-Performance Core** The backend logic is optimized for low latency, ensuring that [specific task] happens instantly without hanging the main thread.
+* **⚡ High-Performance Core** The backend logic is optimized for low latency, ensuring that interactions happen instantly without hanging the main thread.
     
-* **🎮 Interactive User Interface** A clean, responsive interface that provides real-time feedback. Designed with accessibility and ease-of-use in mind.
+* **🎮 Interactive User Interface** A clean, responsive interface that provides real-time feedback. Designed with custom graphical assets and ease-of-use in mind.
 
 * **🛠️ Modular Architecture** The codebase is structured to allow for easy scalability. Key components are decoupled, making the logic easy to follow and maintain.
 
-* **💾 Persistent Data / Save States** [Improvised: Remove if not applicable]  
-    Users can save their progress/configurations locally, ensuring that no data is lost between sessions.
+* **🔊 Integrated Sound System** Features a dedicated sound module for auditory feedback, enhancing the user interaction loop.
 
 ---
 
 ## 💡 Why I Built This
 
-I developed **Winbloke** to challenge my skills in **[C++ / Python / Godot]** and to understand the full lifecycle of software development—from initial ideation to a "Gold Master" release.
+I developed **Winbloke** to challenge my skills in **Python** and to understand the full lifecycle of software development—from initial ideation to a "Gold Master" release.
 
 My main goals were:
-1.  To implement **[Specific Algorithm or Design Pattern]** in a real-world scenario.
+1.  To implement **event-driven GUI programming** in a real-world scenario.
 2.  To create a project with zero critical bugs at launch.
-3.  To master **[specific tool, e.g., Git version control or Memory Management]**.
+3.  To master **asset management (SVGs/Audio)** within a Python environment.
 
 ---
 
@@ -76,9 +76,9 @@ The project was built using the following technologies:
 
 | Component | Technology | Description |
 | :--- | :--- | :--- |
-| **Core Logic** | `[Language]` | [e.g., C++17 / Python 3.9 / GDScript] |
-| **Engine/Framework** | `[Framework]` | [e.g., Godot 4.2 / Qt / Standard Library] |
-| **Version Control** | `Git` | Managed via GitHub |
+| **Core Logic** | `Python 3` | The primary language used for backend logic and event handling. |
+| **Interface** | `Custom GUI` | Built with vector assets (SVG) for a crisp, modern look. |
+| **Version Control** | `Git` | Managed via GitHub. |
 
 ---
 
@@ -86,7 +86,7 @@ The project was built using the following technologies:
 
 Since this project is completed, you can run the stable release immediately.
 
-### Option 1: Run form Source
+### Option 1: Run from Source
 1.  **Clone the repository**
     ```bash
     git clone [https://github.com/shayanshirazi/Winbloke.git](https://github.com/shayanshirazi/Winbloke.git)
@@ -95,18 +95,14 @@ Since this project is completed, you can run the stable release immediately.
     ```bash
     cd Winbloke
     ```
-3.  **Compile / Run**
+3.  **Run the Application**
     ```bash
-    # If C++
-    g++ main.cpp -o winbloke
-    ./winbloke
-    
-    # If Python
-    python3 main.py
+    # Run the latest version
+    python3 winbloke-0.4.0.py
     ```
 
 ### Option 2: Download Release
-Go to the **[Releases](https://github.com/shayanshirazi/Winbloke/releases)** page to download the pre-compiled binary for your OS.
+Go to the **[Releases](https://github.com/shayanshirazi/Winbloke/releases)** page to download the latest source code.
 
 ---
 
@@ -114,3 +110,10 @@ Go to the **[Releases](https://github.com/shayanshirazi/Winbloke/releases)** pag
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+---
+
+## 📬 Contact
+
+**Shayan Shirazi**
+
+Project Link: [https://github.com/shayanshirazi/Winbloke](https://github.com/shayanshirazi/Winbloke)
